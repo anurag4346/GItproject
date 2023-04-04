@@ -1,1 +1,11 @@
-hello anurag from backend
+Respected Professor Lalchandani,
+
+We are writing this mail to express our interest in applying for the summer research internship. Currently we are pursuing B.Tech ICT in DA-IICT. We are eager to work in Web development project under your guidance.  Here are the details of the project which we are willing to work on.
+
+Name: Canteen   (Laundry4U)
+Description: Currently many students find it difficult to send their laundry at laundry hubs or get delivery from them. Because the delivery man doesn't come on student's suitable time. So, by using this app student can raise a request for delivery man to get its delivery. Then delivery person will come to take delivery. After that if cloths are ready to be delivered then it will send notification to student, to whether take away their cloths or get it delivered at their suitable time. So, it will save student's time.
+
+Team Details:
+Nisarg Patel (202001436)
+Krunal Patel (202001442)
+krish
